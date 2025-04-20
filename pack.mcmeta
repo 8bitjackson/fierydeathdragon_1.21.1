@@ -1,0 +1,18 @@
+{
+    "pack": {
+	"pack_format": 34,
+        "description": "my texture pack, basically personalized vanillatweaks"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 42, "max_inclusive": 46},
+				"directory": "overlay_42"
+			},
+			{
+				"formats": {"min_inclusive": 46, "max_inclusive": 46},
+				"directory": "overlay_46"
+			}
+		]
+	}
+}
